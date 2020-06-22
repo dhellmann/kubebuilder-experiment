@@ -1,3 +1,4 @@
+tools/controller-tools/controller-gen
 
 # Binaries for programs and plugins
 *.exe
