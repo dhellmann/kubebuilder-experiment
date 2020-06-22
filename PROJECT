@@ -1,3 +1,7 @@
 domain: my.domain
 repo: github.com/dhellmann/kubebuilder-experiment
+resources:
+- group: metal3.io
+  kind: BareMetalHost
+  version: v1alpha1
 version: "2"
