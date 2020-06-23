@@ -1,0 +1,7 @@
+apiVersion: hardware.metal3.io/v1alpha1
+kind: BareMetalHost
+metadata:
+  name: baremetalhost-sample
+spec:
+  # Add fields here
+  foo: bar

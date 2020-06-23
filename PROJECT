@@ -1,3 +1,7 @@
 domain: metal3.io
 repo: github.com/dhellmann/kubebuilder-experiment
+resources:
+- group: hardware
+  kind: BareMetalHost
+  version: v1alpha1
 version: "2"
