@@ -1,0 +1,3 @@
+domain: metal3.io
+repo: github.com/dhellmann/kubebuilder-experiment
+version: "2"
